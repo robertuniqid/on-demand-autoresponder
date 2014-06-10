@@ -1,7 +1,7 @@
 On Demand Auto Responder
 =======================
 
-Head Note : This script was created 1 year ago, it's still perfectly working and it's made under Bootstrap 2 for the "looks". If you have any suggestions please feel free to contact me.
+Head Note : This script was created 2 years ago, it's still perfectly working and it's made under Bootstrap 2 for the "looks". If you have any suggestions please feel free to contact me.
 
 This script works perfectly and doesn't require a database, it's using file storage, so you can move it anytime without losing your settings, and backing it up is just a click away ( create a zip file of everything )
 
